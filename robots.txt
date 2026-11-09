@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umgroupkz-commits.github.io/polezhim/sitemap.xml
